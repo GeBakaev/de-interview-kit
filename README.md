@@ -1,6 +1,6 @@
 # de-interview-kit
 
-A working log of data-engineering problems I solve to stay sharp — coding, SQL, system design, and behavioral prep — each with notes on approach, complexity, and tradeoffs. Public on purpose: "here's the pipeline I designed last week" beats "trust me, I know this."
+A working log of data-engineering problems I solve to stay sharp — coding, SQL, and system design — each with notes on approach, complexity, and tradeoffs. Public on purpose: "here's the pipeline I designed last week" beats "trust me, I know this."
 
 **By [George Bakaev](https://bakaev.dev)** — senior data engineer (GCP & AWS).
 [bakaev.dev](https://bakaev.dev) · [GitHub](https://github.com/gebakaev) · [LinkedIn](https://www.linkedin.com/in/gebakaev/)
@@ -15,7 +15,6 @@ A working log of data-engineering problems I solve to stay sharp — coding, SQL
 coding/          one folder per problem: solution + notes
 sql/             advanced SQL — window functions, CTEs, performance tuning
 system-design/   design write-ups with architecture diagrams and cost numbers
-behavioral/      STAR stories from production work
 templates/       notes template for new entries
 ```
 
